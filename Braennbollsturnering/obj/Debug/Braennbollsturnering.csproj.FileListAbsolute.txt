@@ -1,0 +1,186 @@
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\ApplicationInsights.config
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\csc.exe
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\vbc.exe
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\VBCSCompiler.exe
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.dll.config
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Antlr3.Runtime.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.SqlServer.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Web.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.ApplicationInsights.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Newtonsoft.Json.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Owin.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Helpers.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Mvc.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Optimization.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Razor.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Deployment.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Razor.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\WebGrease.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Web.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.ApplicationInsights.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Helpers.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Mvc.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Optimization.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Razor.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Deployment.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Razor.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Antlr3.Runtime.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Newtonsoft.Json.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.SqlServer.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.csprojResolveAssemblyReference.cache
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Library.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Models.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Library.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Models.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Common.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Mvc.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\WebActivatorEx.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Common.xml
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Mvc.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\ApplicationInsights.config
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\csc.exe
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\System.Collections.Immutable.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\System.Reflection.Metadata.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\vbc.exe
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\VBCSCompiler.exe
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\roslyn\VBCSCompiler.exe.config
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.dll.config
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.pdb
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Antlr3.Runtime.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Library.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Models.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.SqlServer.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.DependencyCollector.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Web.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.WindowsServer.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.ApplicationInsights.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Google.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Web.Infrastructure.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Newtonsoft.Json.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Common.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Mvc.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Owin.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Helpers.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Mvc.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Optimization.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Razor.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Deployment.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Razor.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\WebActivatorEx.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\WebGrease.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Library.pdb
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Braennbollsturnering.Models.pdb
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.DependencyCollector.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.Web.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AI.WindowsServer.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.ApplicationInsights.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Common.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Ninject.Web.Mvc.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Helpers.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Mvc.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Optimization.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.Razor.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Deployment.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\System.Web.WebPages.Razor.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Antlr3.Runtime.pdb
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Newtonsoft.Json.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\EntityFramework.SqlServer.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Google.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.csprojResolveAssemblyReference.cache
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.dll
+D:\WOrk\Braennbollsturnering\Braennbollsturnering\obj\Debug\Braennbollsturnering.pdb
