@@ -31,7 +31,7 @@ namespace Braennbollsturnering.Library.Implementations
                 new Player(2, "Frey"),
                 new Player(3, "Jonathan"),
                 new Player(4, "Markus"),
-                new Player(5, "Tobbe"),
+                new Player(5, "Fredrik"),
                 new Player(6, "Vide"),
                 new Player(7, "Christian"),
                 new Player(8, "Emilia"),
