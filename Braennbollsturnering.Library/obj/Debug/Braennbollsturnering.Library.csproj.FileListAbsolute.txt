@@ -12,3 +12,10 @@ D:\WOrk\Braennbollsturnering\Braennbollsturnering.Library\bin\Debug\Braennbollst
 D:\WOrk\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.csprojResolveAssemblyReference.cache
 D:\WOrk\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.dll
 D:\WOrk\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.csprojResolveAssemblyReference.cache
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\obj\Debug\Braennbollsturnering.Library.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\bin\Debug\Braennbollsturnering.Library.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\bin\Debug\Braennbollsturnering.Library.pdb
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\bin\Debug\Braennbollsturnering.Models.dll
+C:\Users\robin.svahn\Documents\Visual Studio 2015\Projects\Home\Braennbollsturnering\Braennbollsturnering.Library\bin\Debug\Braennbollsturnering.Models.pdb

@@ -14,5 +14,10 @@ namespace Braennbollsturnering.Library
         {
             throw new NotImplementedException();
         }
+
+        public Team GetTeamWithID(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

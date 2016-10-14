@@ -21,8 +21,8 @@ namespace Braennbollsturnering.Library.Implementations
                 new Player(5, "Erik"),
                 new Player(6, "Jonathan"),
                 new Player(7, "Valle"),
-                new Player(9, "Sofia"),
-                new Player(10, "Karl-Peter")
+                new Player(8, "Sofia"),
+                new Player(9, "Karl-Peter")
             };
 
             List<Player> TeamRik = new List<Player>
@@ -45,6 +45,12 @@ namespace Braennbollsturnering.Library.Implementations
             };
 
             return teams;
+        }
+
+        public Team GetTeamWithID(int id)
+        {
+            List<Team> Teams = GetTeams().ToList();
+            return Teams.ElementAt(id-1);
         }
     }
 }

@@ -10,5 +10,7 @@ namespace Braennbollsturnering.Library.Interfaces
     public interface IDataService
     {
         IEnumerable<Team> GetTeams();
+
+        Team GetTeamWithID(int id);
     }
 }

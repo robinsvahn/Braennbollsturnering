@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using Braennbollsturnering.Library;
 using Braennbollsturnering.Library.Interfaces;
 using Braennbollsturnering.Models;
+using System.Net;
 
 namespace Braennbollsturnering.Controllers
 {
@@ -67,7 +68,18 @@ namespace Braennbollsturnering.Controllers
 
         public ActionResult Details(int id)
         {
-            return View();
+            if (id == 0)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+
+            Team team = _dataService.GetTeamWithID(id);
+            if (team == null)
+            {                
+                return HttpNotFound();
+            }
+
+            return View(team);
         }
     }
 }
