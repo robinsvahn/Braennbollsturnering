@@ -12,7 +12,7 @@ namespace Braennbollsturnering.Library.Implementations
     {
         public IEnumerable<Team> GetTeams()
         {
-            List<Player> TeamEnghagen = new List<Player>
+            List<Player> teamEnghagen = new List<Player>
             {
                 new Player(1, "Adam"),
                 new Player(2, "Markus"),
@@ -25,7 +25,7 @@ namespace Braennbollsturnering.Library.Implementations
                 new Player(9, "Karl-Peter")
             };
 
-            List<Player> TeamRik = new List<Player>
+            List<Player> teamRik = new List<Player>
             {
                 new Player(1, "Philip"),
                 new Player(2, "Frey"),
@@ -40,8 +40,8 @@ namespace Braennbollsturnering.Library.Implementations
 
             List<Team> teams = new List<Team>
             {
-                new Team(1, "Team Enghagen", TeamEnghagen),
-                new Team(2, "Team RIK", TeamRik)
+                new Team(1, "Team Enghagen", teamEnghagen),
+                new Team(2, "Team RIK", teamRik)
             };
 
             return teams;
@@ -49,8 +49,8 @@ namespace Braennbollsturnering.Library.Implementations
 
         public Team GetTeamWithID(int id)
         {
-            List<Team> Teams = GetTeams().ToList();
-            return Teams.ElementAt(id-1);
+            List<Team> teams = GetTeams().ToList();
+            return teams.ElementAt(id-1);
         }
     }
 }

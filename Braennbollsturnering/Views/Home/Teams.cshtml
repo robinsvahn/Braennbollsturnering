@@ -21,9 +21,6 @@
 
     @foreach (var item in Model)
     {
-
-        //item.Modified = RemoteSoftwareManagement.Helpers.TimeMethodExtension.TimeAgo(DateTime.Parse(item.Modified));
-
         <tr>
             <td>
                 @Html.ActionLink(@Html.DisplayFor(modelItem => item.Name).ToString(), "Details", new {id = item.Id})
